@@ -1,7 +1,8 @@
 import React from 'react';
 
 function App() {
-  return <div><p>ちょんちょん、ちょーんちょん</p></div>
+  return <h1>ちょんちょん、ちょーんちょん</h1>
 }
+
 
 export default App;
